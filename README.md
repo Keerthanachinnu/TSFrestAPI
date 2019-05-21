@@ -1,5 +1,5 @@
 # TSFrestAPI
-This is a Library project which is developed using SPRING BOOT.
+This is a bookstore project which is developed using SPRING BOOT.
 
 
 IDE used-SPRING TOOL SUITE
